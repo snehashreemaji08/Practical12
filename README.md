@@ -7,7 +7,6 @@
 
 <body>
 
-<!-- 🔹 Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="#">Fashion Mart</a>
@@ -36,7 +35,6 @@
   </div>
 </nav>
 
-<!-- 🔹 Carousel -->
 <div id="slider" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
 
@@ -65,7 +63,6 @@
   </div>
 </div>
 
-<!-- 🔹 Products Section -->
 <div class="container mt-5">
   <h2 class="text-center mb-4">Trending Products</h2>
 
@@ -83,7 +80,7 @@
       </div>
     </div>
 
-    <!-- Card 2 -->
+
     <div class="col-md-4">
       <div class="card">
         <img src="https://tiimg.tistatic.com/fp/1/003/092/women-western-dresses-033.jpg" class="card-img-top">
@@ -95,7 +92,7 @@
       </div>
     </div>
 
-    <!-- Card 3 -->
+    
     <div class="col-md-4">
       <div class="card">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGReVVBdlQ4PVMzV-bTX0QQJMjMVQzD6RveA&s" class="card-img-top">
@@ -148,7 +145,6 @@
   </div>
 </div>
 
-<!-- 🔹 Footer -->
 <footer class="bg-dark text-white text-center mt-5 p-3">
   <p>© 2026 Fashion Mart | All Rights Reserved</p>
 </footer>
